@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Hello from Accounts prod Service by usman are we getting this message"
   contactDetails:
-    email: "{cipher}940048a3835e2e802bc2281ba087ddfb3f2dbfeba3ea63e6c31ac9ea469d3fb6"
+    email: "{cipher}e2028112513542dc21b26e7f317dbef3557d9b144c084b7235badb1500db9cb212059a30773136b8fb1ab54d64467576"
     name: "xyz"
   onCallSupport:
     - (555) 555-1212
