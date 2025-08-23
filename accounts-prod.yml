@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Hello from Accounts prod Service by usman are we getting this message"
   contactDetails:
-    email: "xyz@gamil.com"
+    email: "{cipher}940048a3835e2e802bc2281ba087ddfb3f2dbfeba3ea63e6c31ac9ea469d3fb6"
     name: "xyz"
   onCallSupport:
     - (555) 555-1212
