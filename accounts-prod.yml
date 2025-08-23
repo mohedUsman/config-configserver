@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello from Accounts producation Service by usman are we getting this message"
+  message: "Hello from Accounts producation test Service by usman are we getting this message"
   contactDetails:
     email: "{cipher}e2028112513542dc21b26e7f317dbef3557d9b144c084b7235badb1500db9cb212059a30773136b8fb1ab54d64467576"
     name: "xyz"
